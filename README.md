@@ -1,5 +1,5 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-#### Logavani D
+#### Logavani D 
 #### Ref no: 26018671
 #### Date:08.10.2026
 ## AIM:
